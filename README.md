@@ -12,7 +12,7 @@
 ```
 git clone git@github.com:eterise/eternity-template.git <yours-project-name>
 ```
-- Install Global Yarn
+- Install global Yarn
 ```
 npm install --global yarn
 ```
