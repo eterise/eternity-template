@@ -1,6 +1,9 @@
 # TypeScript Project Template
 
-# Requirements:
+# Description
+- The example of base TypeScript project
+
+# Pre-requisites:
 - Install Node.js
 - Install Yarn
 
@@ -9,6 +12,11 @@
 ```
 git clone git@github.com:eterise/eternity-template.git <yours-project-name>
 ```
+- Install Global Yarn
+```
+npm install --global yarn
+```
+
 - Install dependencies
 ```
 cd <yours-project-name> && yarn install
